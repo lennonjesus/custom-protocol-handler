@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\myprotocol]
+@="URL:Custom Protcol Handler"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\myprotocol\DefaultIcon]
+@="myprotocol.exe,1"
+
+[HKEY_CLASSES_ROOT\myprotocol\shell]
+
+[HKEY_CLASSES_ROOT\myprotocol\shell\open]
+
+[HKEY_CLASSES_ROOT\myprotocol\shell\open\command]
+@="\"C:\\myprotocol\\myprotocol.exe\" \"%1\""
