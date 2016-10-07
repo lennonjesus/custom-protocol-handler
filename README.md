@@ -34,7 +34,7 @@ Desmarque a opção de sempre realizar esta pergunta e permita a execução.
 
 Uma página de resultado de busca do Google será aberta em uma aba do navegador `Google Chrome`.
 
-** IMPORTANTE: Para funcionar, o `Google Chrome` deve estar instalado. **
+** IMPORTANTE: Para funcionar, o [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) deve estar instalado. **
 
 
 ##### Para saber mais
