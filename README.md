@@ -45,4 +45,4 @@ Uma página de resultado de busca do Google será aberta em uma aba do navegador
 * https://autohotkey.com/board/topic/71831-application-url-launch-local-application-from-browser/
 * http://stackoverflow.com/questions/23208646/how-do-i-create-a-standalone-exe-with-autohotkey
 
-#### [LICENSE](LICENSE.md)
+#### [MIT LICENSE](LICENSE.md)
